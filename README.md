@@ -5,7 +5,7 @@ Direction map web application using React and Laravel
 ## Tech Stack
 
 ### Backend
-- **Laravel 11** - PHP Framework
+- **Laravel 12** - PHP Framework
 - **Inertia.js** - Modern monolith architecture
 - **MySQL** - Database
 
