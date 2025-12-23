@@ -7,7 +7,7 @@ Direction map web application using React and Laravel
 ### Backend
 - **Laravel 12** - PHP Framework
 - **Inertia.js** - Modern monolith architecture
-- **MySQL** - Database
+- **SQLite** - Database
 
 ### Frontend
 - **React** - UI Library
